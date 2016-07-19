@@ -64,6 +64,9 @@
     <Compile Include="Engine\Utilities\FpsCounter.cs" />
     <Compile Include="Engine\Utilities\Input.cs" />
     <Compile Include="Engine\Utilities\PercentConvert.cs" />
+    <Compile Include="Engine\Utilities\TileEngine\Tile.cs" />
+    <Compile Include="Engine\Utilities\TileEngine\TileMap.cs" />
+    <Compile Include="Engine\Utilities\TileEngine\TileMapper.cs" />
     <Compile Include="MetroidVania\Scenes\LevelOne.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
